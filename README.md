@@ -1,5 +1,9 @@
  **Weather App (PyQt5)**
 
+ <p align="center">
+  <img src="image.png" width="45%" alt="AI Person Detection" />
+</p>
+
 A simple yet modern PyQt5 weather application that displays real-time weather data using the OpenWeatherMap API.
 Includes multi-language support (English & Turkish) powered by Google Translate.
 
